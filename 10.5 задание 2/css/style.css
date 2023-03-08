@@ -1,0 +1,18 @@
+.button {
+   height: 30px;
+   background: #b09de56b;
+   border: 1px solid #a795d8;
+   border-radius: 5px;
+   cursor: pointer;
+   position: relative;
+}
+.button:hover{
+   box-shadow: 0px 2px 8px 2px rgba(141,150,178,.3);
+   transform: scale(1.03);
+}
+.button__text {
+   display: inline-block;
+   padding-right: 20px;
+
+}
+
